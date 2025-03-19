@@ -10,17 +10,17 @@ import "swiper/css/pagination";
 import {Autoplay } from "swiper/modules";
 const HappyClient = () => {
   const Social = [
-    { id: 1, image: "/images/GoogleIcons.png" },
-    { id: 2, image: "/images/DribbbleIcons.png" },
-    { id: 3, image: "/images/LinkedIn.png" },
-    { id: 4, image: "/images/amazon.png" },
-    { id: 5, image: "/images/medium.png" },
-    { id: 6, image: "/images/spotify.png" },
+    { id: 1, image: "public/images/GoogleIcons.png" },
+    { id: 2, image: "public/images/DribbbleIcons.png" },
+    { id: 3, image: "public/images/LinkedIn.png" },
+    { id: 4, image: "public/images/amazon.png" },
+    { id: 5, image: "public/images/medium.png" },
+    { id: 6, image: "public/images/spotify.png" },
   ];
 
   return (
     <section id="HappyClient" className="bg-gray-50">
-      <div className="container text-center pt-[100px] w-full">
+      <div className="container text-center pt-[100px]">
         <Heading className="pb-[24px]">Happy Clients</Heading>
         <Detail className="pb-[24px]">
           There are many variations of passages of Lorem Ipsum available,

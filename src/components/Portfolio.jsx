@@ -24,37 +24,37 @@ const Portfolio = () => {
         {/* Portfolio Grid */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-12">
           <PortfolioCard
-            thumbnail="/images/PortfolioImg-1.png"
+            thumbnail="public/images/PortfolioImg-1.png"
             title="UI-UX DESIGN"
             detail="Product Admin Dashboard"
             description="Vivamus eleifend convallis ante, non pharetra libero molestie laoreet. Donec id imperdiet lacus."
           />
           <PortfolioCard
-            thumbnail="/images/PortfolioImg-2.png"
+            thumbnail="public/images/PortfolioImg-2.png"
             title="UI-UX DESIGN"
             detail="Product Admin Dashboard"
             description="Vivamus eleifend convallis ante, non pharetra libero molestie laoreet. Donec id imperdiet lacus."
           />
           <PortfolioCard
-            thumbnail="/images/PortfolioImg-3.png"
+            thumbnail="public/images/PortfolioImg-3.png"
             title="UI-UX DESIGN"
             detail="Product Admin Dashboard"
             description="Vivamus eleifend convallis ante, non pharetra libero molestie laoreet. Donec id imperdiet lacus."
           />
           <PortfolioCard
-            thumbnail="/images/PortfolioImg-4.png"
+            thumbnail="public/images/PortfolioImg-4.png"
             title="UI-UX DESIGN"
             detail="Product Admin Dashboard"
             description="Vivamus eleifend convallis ante, non pharetra libero molestie laoreet. Donec id imperdiet lacus."
           />
           <PortfolioCard
-            thumbnail="/images/PortfolioImg-5.png"
+            thumbnail="public/images/PortfolioImg-5.png"
             title="UI-UX DESIGN"
             detail="Product Admin Dashboard"
             description="Vivamus eleifend convallis ante, non pharetra libero molestie laoreet. Donec id imperdiet lacus."
           />
           <PortfolioCard
-            thumbnail="/images/PortfolioImg-6.png"
+            thumbnail="public/images/PortfolioImg-6.png"
             title="UI-UX DESIGN"
             detail="Product Admin Dashboard"
             description="Vivamus eleifend convallis ante, non pharetra libero molestie laoreet. Donec id imperdiet lacus."
